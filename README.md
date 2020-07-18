@@ -10,3 +10,9 @@ print(ccd)
  cpp <- plot(ccd)
  
  
+``` {r, check1 echo= false }
+
+print(ccd)
+
+```
+
